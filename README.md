@@ -185,13 +185,13 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Web:** [Karbon Hesaplayıcı](https://your-domain.com)
-- **Email:** contact@your-domain.com
+- **Web:** [Karbon Hesaplayıcı]()
+- **Email:** kadircncii@gmail.com
 - **TEMA Vakfı:** [tema.org.tr](https://www.tema.org.tr)
 
 ## 🙏 Teşekkürler
 
-- **TEMA Vakfı:** Ağaç dikim partnership
+
 - **Radix UI:** Erişilebilir UI bileşenleri
 - **Tailwind CSS:** Modern styling framework
 - **Next.js:** React framework
