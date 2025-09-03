@@ -7,6 +7,16 @@ Modern, kullanıcı dostu bir karbon ayak izi hesaplama aracı. Bireysel karbon 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0+-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Frontend Only](https://img.shields.io/badge/Frontend_Only-✅-green?style=for-the-badge)
 
+## 📸 Ekran Görüntüleri
+
+### 🧮 Hesaplayıcı Formu
+![Karbon Hesaplayıcı Form](screenshot-calculator-form.png)
+*Modern, kullanıcı dostu arayüz ile adım adım hesaplama süreci*
+
+### 📊 Hesaplayıcı Sayfası
+![Hesaplama Sonuçları](screenshot-results.png)
+*Detaylı sonuç raporları ve ağaç dikim önerileri*
+
 ## ✨ Özellikler
 
 ### 🧮 Kapsamlı Hesaplama
